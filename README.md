@@ -1,4 +1,4 @@
-# Test for Bluesky Interactive - Volkswagen - React + Tailwindcss (Vite)
+# Task for Bluesky Interactive - Volkswagen - React + Tailwindcss (Vite)
 
 ![Volkswagen Task for Bluesky Interactive](https://res.cloudinary.com/drpcjt13x/image/upload/v1691406473/Proyectos/Volkswagen%20Task%20-%20Bluesky%20Interactive/volkswagen_screenshot_okzov9.jpg)
 
